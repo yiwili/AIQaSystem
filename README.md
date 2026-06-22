@@ -2,6 +2,10 @@
 
 面向企业私有数据的高性能RAG(Retrieval-Augmented Generation)智能知识库与流式问答引擎。本项目采用前后端分离架构，重点解决高维向量数据权限隔离、长文档上下文切分、高并发Embedding事务阻塞及SSE流式对话延迟等核心痛点，确保系统数据安全性、检索准确率与高可用交互体验。
 
+## 🎥 系统演示
+
+![RAG流式问答演示](docs/images/rag-stream-demo.gif)
+
 ## 🛠 技术栈
 
 * **后端框架**：Java17、SpringBoot3、SpringSecurity、JPA
