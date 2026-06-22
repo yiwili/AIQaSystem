@@ -6,11 +6,11 @@
 
 **文档解析与删除操作演示**
 
-<video src="https://github.com/user-attachments/assets/bca0e3cf-78dc-4578-bb5f-183abde8618b" width="300" controls="controls"></video>
+<video src="https://github.com/user-attachments/assets/bca0e3cf-78dc-4578-bb5f-183abde8618b" width="60%" controls="controls"></video>
 
 **RAG智能问答演示**
 
-https://github.com/user-attachments/assets/8c41f025-49c5-45df-8eb5-c7e958afb289
+<video src="https://github.com/user-attachments/assets/8c41f025-49c5-45df-8eb5-c7e958afb289" width="60%" controls="controls"></video>
 
 
 ## 🛠 技术栈
